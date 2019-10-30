@@ -1,0 +1,10 @@
+loguru==0.3.2
+pkg-resources==0.0.0
+PyQt5==5.13.1
+PyQt5-sip==12.7.0
+PySimpleGUI==4.4.1
+PySimpleGUIQt==0.28.0
+pytz==2019.3
+six==1.12.0
+timeloop==1.0.2
+tzlocal==2.0.0
